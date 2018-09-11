@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+reports
+build
+classes
+target
+cucumber.json
+logs
+gradlew
+gradlew.bat
+/work/
